@@ -1,0 +1,13 @@
+https://android.googleapis.com/gcm/send
+
+Content-Type	application/json
+Authorization	key=AIzaSyCSL0IlzD1V5vp4mvCwJ8A6EBZZ9G5AWok
+
+{
+"registration_ids":["APA91bEJsMYlx5eel_cu6W0ZRTTlrcWN_nNFpHlPU5STJdEaV1dXx2q2-cJ6lZXEthtQ_hFW-sQxWcIOgRNcyB8y8G9DBDCCuJB_iVLR73hYGuqmlr8-ZYQ7tFKFqwRhvC-SwO5jkSAM"],
+"data":{"message":"How are you doing - Second message"}
+}
+
+
+
+HTTP/1.1 200 OK [Content-Type: application/json; charset=UTF-8, Date: Fri, 11 Dec 2015 13:35:15 GMT, Expires: Fri, 11 Dec 2015 13:35:15 GMT, Cache-Control: private, max-age=0, X-Content-Type-Options: nosniff, X-Frame-Options: SAMEORIGIN, X-XSS-Protection: 1; mode=block, Server: GSE, Alternate-Protocol: 443:quic,p=0, Alt-Svc: clear, Accept-Ranges: none, Vary: Accept-Encoding, Transfer-Encoding: chunked]

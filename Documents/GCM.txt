@@ -1,0 +1,11 @@
+Project: unorganised
+Details about your project
+Project ID
+unorganised-1139
+Project number
+269412390432
+
+
+API key
+Here is your API key
+AIzaSyDOPSqi7cOPOZDtM2DNzzWzIXvrCQdH_Nc
